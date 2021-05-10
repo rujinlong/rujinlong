@@ -1,4 +1,4 @@
-### Hi there 👋
+![Jinlong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rujinlong&show_icons=true&count_private=true&theme=tokyonight)
 
 <!--
 **rujinlong/rujinlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
