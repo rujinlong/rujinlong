@@ -2,8 +2,6 @@
 
 [![](https://img.shields.io/badge/Google%20Scholar-informational?style=flat&logo=googlescholar&logoColor=white&color=346CF0)](https://scholar.google.com/citations?user=xB64MDUAAAAJ)
 
-Homepage: [https://rujinlong.github.io](https://rujinlong.github.io)
-
 ## My stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rujinlong&layout=compact&hide=tex,css,html,scss,ruby,javascript,pep8,roff&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
