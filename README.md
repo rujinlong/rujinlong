@@ -1,3 +1,5 @@
+![](https://metrics.lecoq.io/insights/rujinlong)
+
 ## Academic info
 
 [![](https://img.shields.io/badge/Google%20Scholar-informational?style=flat&logo=googlescholar&logoColor=white&color=346CF0)](https://scholar.google.com/citations?user=xB64MDUAAAAJ)
