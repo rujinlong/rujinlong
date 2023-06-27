@@ -1,5 +1,6 @@
-![](https://metrics.lecoq.io/insights/rujinlong)
+![Metrics](https://metrics.lecoq.io/rujinlong)
 
+<!--
 ## Academic info
 
 [![](https://img.shields.io/badge/Google%20Scholar-informational?style=flat&logo=googlescholar&logoColor=white&color=346CF0)](https://scholar.google.com/citations?user=xB64MDUAAAAJ)
@@ -10,7 +11,7 @@
 [![Felipe Github Stats](https://github-readme-stats.vercel.app/api?username=rujinlong&count_private=true&show_icons=true&theme=vue)](https://github.com/rujinlong/github-readme-stats)
 
 
-<!--
+
 ![Jinlong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rujinlong&show_icons=true&count_private=true&theme=tokyonight)
 **rujinlong/rujinlong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
