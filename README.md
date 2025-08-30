@@ -30,7 +30,6 @@ I'm a **Postdoctoral Researcher** specializing in **microbiology and bacteriopha
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-23B4D2?style=for-the-badge&logo=nextflow&logoColor=white)
-![Singularity](https://img.shields.io/badge/Singularity-000000?style=for-the-badge&logo=singularity&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-342B029?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-FF6C2E?style=for-the-badge&logo=slurm&logoColor=white)
 
