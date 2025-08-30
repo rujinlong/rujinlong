@@ -44,8 +44,6 @@ I'm a **Postdoctoral Researcher** specializing in **microbiology and bacteriopha
 
 ---
 
----
-
 <div align="center">
 
 *"Advancing microbiology with innovative science and a dash of phage fun!"* 🧬
