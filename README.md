@@ -2,7 +2,6 @@
 
 > **Postdoctoral Researcher | Microbiology & Bacteriophage Specialist**
 
-[![Metrics](https://metrics.lecoq.io/rujinlong)](https://github.com/rujinlong)
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rujinlong&show_icons=true&count_private=true&theme=tokyonight&hide_border=true)](https://github.com/rujinlong)
 
 ---
@@ -31,31 +30,6 @@ I'm a **Postdoctoral Researcher** specializing in **microbiology and bacteriopha
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Nextflow](https://img.shields.io/badge/Nextflow-23B4D2?style=for-the-badge&logo=nextflow&logoColor=white)
 
-### High-Performance Computing
-![HPC](https://img.shields.io/badge/HPC-000000?style=for-the-badge&logo=supercomputer&logoColor=white)
-
----
-
-## 📊 GitHub Activity
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rujinlong&layout=compact&hide=tex,css,html,scss,ruby,javascript,pep8,roff&exclude_repo=dotfiles,mxrcon,website-nos,study_notes&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-## 🚀 Current Projects
-
-- **🔬 [Project Name]** - Brief description of current research project
-- **💻 [Tool/Software]** - Development of computational tools for microbial analysis
-- **📚 [Publication/Review]** - Current writing or review work
-
-*More projects coming soon...*
-
----
-
-## 📚 Publications & Research Output
-
-*Publications and research outputs will be added here as they become available.*
-
 ---
 
 ## 🎯 Future Directions
@@ -69,29 +43,11 @@ I'm a **Postdoctoral Researcher** specializing in **microbiology and bacteriopha
 ## 📫 Get in Touch
 
 - **GitHub**: [@rujinlong](https://github.com/rujinlong)
-- **Research Profile**: [Add your institutional profile link]
-- **Email**: [Add your professional email]
-- **LinkedIn**: [Add your LinkedIn profile]
-
----
-
-## 🌟 Fun Facts
-
-*Interesting facts about your research journey, hobbies, or personal interests will be added here.*
 
 ---
 
 <div align="center">
 
-*"Exploring the microscopic world, one phage at a time"* 🦠
+*"Advancing microbiology with innovative science and a dash of phage fun!"* 🧬
 
 </div>
-
----
-
-<details>
-<summary>📈 Detailed GitHub Statistics</summary>
-
-[![Detailed GitHub Stats](https://github-readme-stats.vercel.app/api?username=rujinlong&count_private=true&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/rujinlong/github-readme-stats)
-
-</details>
