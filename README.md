@@ -10,11 +10,12 @@
 
 I'm a **Postdoctoral Researcher** specializing in **microbiology and bacteriophages**, with a keen interest in leveraging cutting-edge computational approaches to advance our understanding of microbial systems.
 
-### Current Research Areas
-- **Bacteriophage Biology & Engineering** - Exploring phage-host interactions and engineering strategies
-- **Protein Engineering** - Computational and experimental approaches to protein design
-- **AI/ML in Microbiology** - Applications of Large Language Models and machine learning in microbial research
-- **High-Performance Computing** - Leveraging HPC resources for large-scale microbial data analysis
+### Research Areas & Directions
+- **Bacteriophage Biology & Engineering** - Exploring phage-host interactions and developing therapeutic phage strategies
+- **Protein Engineering & Design** - De novo protein design and engineering for novel functions and applications
+- **AI/ML in Microbiology** - Applications of Large Language Models and machine learning for microbial data analysis and prediction
+- **Computational Biology & Bioinformatics** - Development of novel pipelines and tools for large-scale microbial data processing
+- **High-Performance Computing** - Leveraging HPC resources and optimizing computational workflows for microbial research
 
 ---
 
@@ -32,14 +33,6 @@ I'm a **Postdoctoral Researcher** specializing in **microbiology and bacteriopha
 ![Nextflow](https://img.shields.io/badge/Nextflow-23B4D2?style=for-the-badge&logo=nextflow&logoColor=white)
 ![Conda](https://img.shields.io/badge/Conda-342B029?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Slurm](https://img.shields.io/badge/Slurm-FF6C2E?style=for-the-badge&logo=slurm&logoColor=white)
-
----
-
-## 🎯 Future Directions
-
-- **AI-Driven Microbiology** - Expanding applications of LLMs in microbial research
-- **Phage Engineering** - Advanced strategies for therapeutic phage development
-- **Computational Biology** - Development of novel bioinformatics pipelines and tools
 
 ---
 
